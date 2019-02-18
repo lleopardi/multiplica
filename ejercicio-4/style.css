@@ -1,0 +1,14 @@
+li {
+    display: block;
+    padding: .3em 0;
+    cursor: pointer;
+}
+
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li:hover {
+    background: #FFCC00;
+}
